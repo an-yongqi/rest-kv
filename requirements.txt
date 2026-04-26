@@ -1,0 +1,22 @@
+accelerate==1.2.1
+anthropic==0.49.0
+flash_attn==2.7.2.post1
+fuzzywuzzy==0.18.0
+hqq==0.2.5
+jieba==0.42.1
+matplotlib==3.10.1
+numpy==2.2.4
+nvtx==0.2.11
+openai==1.75.0
+packaging==24.2
+pandas==2.2.3
+quanto==0.2.0
+rouge==1.0.1
+rouge_score==0.1.2
+seaborn==0.13.2
+setuptools==75.1.0
+tensor_parallel==2.0.0
+tiktoken==0.9.0
+# torch==2.5.1
+tqdm==4.67.1
+transformers==4.44.2
